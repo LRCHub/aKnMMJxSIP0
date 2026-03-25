@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "sugar sweet nightmare",
+  "base_artist": "MONOGATARI Series",
+  "createdAt": "2026-03-25T16:57:02.047958Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "sugar sweet nightmare",
+      "artist": "羽川翼(堀江由衣)",
+      "has_synced": true,
+      "path": "select/01_sugar_sweet_nightmare_羽川翼(堀江由衣).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "sugar sweet nightmare",
+      "artist": "堀江由衣",
+      "has_synced": true,
+      "path": "select/02_sugar_sweet_nightmare_堀江由衣.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "sugar sweet nightmare",
+      "artist": "MONOGATARI Series",
+      "has_synced": true,
+      "path": "select/03_sugar_sweet_nightmare_MONOGATARI_Series.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "sugar sweet nightmare",
+      "artist": "物語シリーズ",
+      "has_synced": true,
+      "path": "select/04_sugar_sweet_nightmare_物語シリーズ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "sugar sweet nightmare",
+      "artist": "羽川翼(堀江由衣)",
+      "has_synced": true,
+      "path": "select/05_sugar_sweet_nightmare_羽川翼(堀江由衣).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "sugar sweet nightmare",
+      "artist": "羽川翼 (堀江由衣)",
+      "has_synced": true,
+      "path": "select/06_sugar_sweet_nightmare_羽川翼_(堀江由衣).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "sugar sweet nightmare -instrumental-",
+      "artist": "羽川翼 (堀江由衣)",
+      "has_synced": true,
+      "path": "select/07_sugar_sweet_nightmare_-instrumental-_羽川翼_(堀江由衣).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "sugar sweet nightmare",
+      "artist": "羽川翼",
+      "has_synced": true,
+      "path": "select/08_sugar_sweet_nightmare_羽川翼.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "sugar sweet nightmare",
+      "artist": "〈物語〉シリーズ",
+      "has_synced": true,
+      "path": "select/09_sugar_sweet_nightmare_〈物語〉シリーズ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sugar Sweet Nightmare",
+      "artist": "MONOGATARI Series",
+      "has_synced": true,
+      "path": "select/10_Sugar_Sweet_Nightmare_MONOGATARI_Series.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "sugar sweet nightmare",
+      "artist": "物語シリーズ",
+      "has_synced": true,
+      "path": "select/11_sugar_sweet_nightmare_物語シリーズ.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sugar Sweet Nightmare",
+      "artist": "MONOGATARI Series",
+      "has_synced": false,
+      "path": "select/12_Sugar_Sweet_Nightmare_MONOGATARI_Series.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sugar Sweet",
+      "artist": "Muddy Waters",
+      "has_synced": false,
+      "path": "select/13_Sugar_Sweet_Muddy_Waters.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sugar Sweet",
+      "artist": "Muddy Waters",
+      "has_synced": false,
+      "path": "select/14_Sugar_Sweet_Muddy_Waters.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Sugar Sweet",
+      "artist": "Jeff Healey",
+      "has_synced": true,
+      "path": "select/15_Sugar_Sweet_Jeff_Healey.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Sugar Sweet",
+      "artist": "Sing It Loud",
+      "has_synced": true,
+      "path": "select/16_Sugar_Sweet_Sing_It_Loud.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Sugar Sweet",
+      "artist": "Benson Boone",
+      "has_synced": true,
+      "path": "select/17_Sugar_Sweet_Benson_Boone.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Sugar Sweet",
+      "artist": "Nitzer Ebb",
+      "has_synced": true,
+      "path": "select/18_Sugar_Sweet_Nitzer_Ebb.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Sugar Sweet",
+      "artist": "Jacob Miller and the Bridge City Crooners",
+      "has_synced": false,
+      "path": "select/19_Sugar_Sweet_Jacob_Miller_and_the_Bridge_City_Crooners.txt"
+    }
+  ]
+}
